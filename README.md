@@ -1,10 +1,10 @@
-# Referring Image Segmentation (RIS) Project
+# Referring Image Segmentation (RIS) Research Project
 
 ## ⭐ Overall Dataset Pipeline (A2D / ViCaS)
 
 This repository contains **action-centric captioning pipelines** for two major video segmentation datasets:  
-- **[A2D Dataset (Actor-Action Dataset)](https://web.cs.ucdavis.edu/~yjlee/projects/a2d/)**  
-- **[ViCaS Dataset](https://github.com/Ali2500/ViCaS)**  
+- **A2D Dataset (Actor-Action Dataset)**  
+- **ViCaS Dataset**  
 
 The goal is to generate **action-centric captions** that enable Referring Image Segmentation (RIS) models to better understand ** actions**, not just object categories.
 
@@ -53,4 +53,4 @@ This project builds on:
 
 ## 📬 Contact
 
-If you have any questions, feel free to reach out!  
+If you have any questions, feel free to reach out!
