@@ -34,7 +34,7 @@ This repository addresses that gap by proposing pipelines that generate such **v
 
 ---
 
-## 📊 Dependencies & Reference Models
+## 📊 Reference Models
 
 This project builds on:
 
