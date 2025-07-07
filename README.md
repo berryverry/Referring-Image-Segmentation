@@ -6,7 +6,7 @@ This repository contains **action-centric captioning pipelines** for two major v
 - **A2D Dataset (Actor-Action Dataset)**  
 - **ViCaS Dataset**  
 
-The goal is to generate **action-centric captions** that enable Referring Image Segmentation (RIS) models to better understand ** actions**, not just object categories.
+The goal is to generate **action-centric captions** that enable Referring Image Segmentation (RIS) models to better understand **actions**, not just object categories.
 
 ---
 
